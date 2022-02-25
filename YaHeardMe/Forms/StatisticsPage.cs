@@ -14,6 +14,7 @@ using MessageBox = System.Windows.Forms.MessageBox;
 
 namespace YaHeardMe.Forms
 {
+    //Welcome to my program
     public partial class StatisticsPage : Form 
     {
         public StatisticsPage()
